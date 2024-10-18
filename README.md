@@ -1,16 +1,14 @@
-# masbaha_app
+# masbaha
+Developed the Masbaha app, a digital tool for Muslim remembrance, offering an interactive and customizable experience for users.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Implemented a feature that allows users to change the Masbaha image, enhancing personalization and user engagement.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Focused on creating a smooth user interface, optimizing the app for ease of use and accessibility.
+
+
+https://github.com/user-attachments/assets/ee87c866-05a1-4873-b0ea-9625e5f9c998
+
